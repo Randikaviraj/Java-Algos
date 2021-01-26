@@ -3,4 +3,5 @@
 
 This contains main algorithms mainly used in daily codings....
 
-1   Bubble Sort
+1.  Bubble Sort
+2.  Insertion Sort
